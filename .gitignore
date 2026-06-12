@@ -3,6 +3,7 @@
 !/dist/
 !/examples/
 !/.gitignore
+!/README.md
 
 # Never track these, even inside the allowed folders
 node_modules/
