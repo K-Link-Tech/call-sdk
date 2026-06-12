@@ -1,0 +1,9 @@
+# Track only the built SDK (dist/) and the example apps — ignore everything else.
+/*
+!/dist/
+!/examples/
+!/.gitignore
+
+# Never track these, even inside the allowed folders
+node_modules/
+examples/*/dist/
